@@ -1,6 +1,7 @@
 {
   "github_url": "https://sneha25032001.github.io/cpp-ally-app-data",
   "vercel_api": "https://cpp-ally-web.vercel.app/",
+  "new_vercel_api": "https://cpp-ally-v2-web.vercel.app/",
   "projects_url": "https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
   "new_projects_url": "https://leetcode-ally.github.io/projects/newprojects.json",
   "send_email_api": "https://send-email-api-taupe.vercel.app/",
