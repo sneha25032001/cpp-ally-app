@@ -10,7 +10,7 @@
   "get_featured_endpoint": "featured-info",
   "update_email_sheet": "https://script.google.com/macros/s/AKfycbx91LVKx48a439GpED4JmMz-w9XQ99jNKwM77hG8HRJItrGWJbFbESCnSdto23neY8WGA/exec",
   "otp_sign_in_enabled": true,
-  "latest_version": 1,
+  "latest_version": 2,
   "mandatory": true,
   "flag": 0,
   "feedback": {
